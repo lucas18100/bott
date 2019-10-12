@@ -1,0 +1,17 @@
+{
+  "name": "冰棒機器人",
+  "version": "1.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo notest specified"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.1.0",
+    "superagent": "^5.1.0"
+  }
+}
